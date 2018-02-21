@@ -1,3 +1,3 @@
-# Comway's Game Of Life
+# Conway's Game Of Life
 
-JAVA implementation of Comway's Game Of Life.
+JAVA implementation of Conway's Game Of Life.
