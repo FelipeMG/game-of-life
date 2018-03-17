@@ -1,3 +1,5 @@
+package com.felipemg.game;
+
 public enum Cell {
     ALIVE {
         public Cell next(int aliveNeighbors) {
